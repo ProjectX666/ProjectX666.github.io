@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2022-04-30 03:54 PM
+4.0.4 (0575)
+7b4e5c9 (2021年12月9日 12:27:12)
+-->
+<scene title="14-30" width="3000" height="1200" exportWidth="3000" exportHeight="1200" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="3041" fps="24" modifiedTime="1651305250593" amver="575" ffver="105" am="com.alightcreative.motion/4.0.4" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/images/media/283209" filename="14-30-原稿.png" title="14-30-原稿.png" type="image/png" size="60730" orientation="0" infoUpdated="1651304676725" width="3000" height="1200" />
+  <bookmark t="20" />
+  <shape id="104" label="14-30-原稿.png" startTime="0" endTime="3041" fillType="media" fillImage="content://media/external/images/media/283209" s=".rect">
+    <transform>
+      <location value="1500.000000,600.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="1500.000000,600.000000" />
+  </shape>
+  <shape id="105" label="圆角矩形 1" startTime="0" endTime="3041" fillType="color" s=".roundrect">
+    <transform>
+      <location value="1207.792358,250.680328,0.000000" />
+      <scale value="0.401708,0.401708" />
+    </transform>
+    <fillColor value="#ff53d451" />
+    <effect id="com.alightcreative.solidcolor" locallyApplied="true">
+      <property name="color" type="color">
+        <kf t="0.006577" v="#ff2d1ef6" />
+        <kf t="0.335416" v="#ffff4444" />
+        <kf t="0.664255" v="#ff98c99c" />
+        <kf t="0.979612" v="#ff3d4cf5" />
+      </property>
+      <property name="alpha" type="float" value="1.000000" />
+      <property name="blendMode" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="90.130402,44.224777" />
+    <property name="cornerRadius" type="float" value="270.243866" />
+  </shape>
+</scene>

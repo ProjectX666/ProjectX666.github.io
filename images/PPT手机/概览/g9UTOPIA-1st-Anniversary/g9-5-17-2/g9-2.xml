@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2022-05-05 02:40 PM
+4.0.4 (0575)
+7b4e5c9 (2021年12月9日 12:27:12)
+-->
+<scene title="g9-2" width="3000" height="1200" exportWidth="3000" exportHeight="1200" precompose="dynamicResolution" bgcolor="#ffffffff" totalTime="2541" fps="24" modifiedTime="1651732808105" amver="575" ffver="105" am="com.alightcreative.motion/4.0.4" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/images/media/284877" filename="g9-2-1原稿.png" title="g9-2-1原稿.png" type="image/png" size="430314" orientation="0" infoUpdated="1651732605074" width="3000" height="1200" />
+  <media uri="content://media/external/images/media/284880" filename="g9-2-2裁剪.png" title="g9-2-2裁剪.png" type="image/png" size="184863" orientation="0" infoUpdated="1651732655144" width="1712" height="1200" />
+  <shape id="106" label="g9-2-1原稿.png" startTime="0" endTime="2541" fillType="media" fillImage="content://media/external/images/media/284877" s=".rect">
+    <transform>
+      <location value="1500.000000,600.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="1500.000000,600.000000" />
+  </shape>
+  <shape id="108" label="g9-2-2裁剪.png" startTime="541" endTime="2041" fillType="media" fillImage="content://media/external/images/media/284880" s=".rect">
+    <transform>
+      <location value="2141.784180,602.777466,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.500000" />
+      <property name="outTime" type="float" value="0.500000" />
+    </effect>
+    <property name="size" type="vec2" value="856.000000,600.000000" />
+  </shape>
+</scene>

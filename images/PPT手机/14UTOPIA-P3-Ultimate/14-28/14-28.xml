@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2022-04-29 02:34 PM
+4.0.4 (0575)
+7b4e5c9 (2021年12月9日 12:27:12)
+-->
+<scene title="新项目" width="3000" height="1200" exportWidth="3000" exportHeight="1200" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="3041" fps="24" modifiedTime="1651214089842" amver="575" ffver="105" am="com.alightcreative.motion/4.0.4" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/images/media/283117" filename="14-28-原图.png" title="14-28-原图.png" type="image/png" size="325904" orientation="0" infoUpdated="1651214015548" width="3000" height="1200" />
+  <shape id="103" label="14-28-原图.png" startTime="0" endTime="3041" fillType="media" fillImage="content://media/external/images/media/283117" s=".rect">
+    <transform>
+      <location value="1500.000000,600.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="1500.000000,600.000000" />
+  </shape>
+  <shape id="99" label="圆角矩形 1" startTime="0" endTime="3041" fillType="gradient" s=".roundrect">
+    <transform>
+      <location>
+        <kf t="0.006577" v="1486.898438,590.500000,0.000000" />
+        <kf t="0.061493" v="1486.898438,607.000000,0.000000" />
+        <kf t="0.116409" v="1486.898438,588.000000,0.000000" />
+        <kf t="0.280829" v="1486.898438,588.000000,0.000000" />
+        <kf t="0.335416" v="980.524902,588.000000,0.000000" />
+        <kf t="0.390332" v="980.524902,605.500000,0.000000" />
+        <kf t="0.445248" v="980.524902,586.000000,0.000000" />
+        <kf t="0.513647" v="1486.898438,586.000000,0.000000" />
+        <kf t="0.636962" v="1486.898438,586.000000,0.000000" />
+        <kf t="0.691878" v="1486.898438,600.000000,0.000000" />
+        <kf t="0.746465" v="2034.398438,600.000000,0.000000" />
+        <kf t="0.801381" v="1485.898438,600.000000,0.000000" />
+        <kf t="0.856297" v="1485.898438,588.000000,0.000000" />
+      </location>
+    </transform>
+    <fillColor value="#ffbebebe" />
+    <gradient type="linear" startColor="#ffffffff" endColor="#ff888888" start="0.385198,-2.075460" end="0.405798,6.011527" />
+    <property name="size" type="vec2" value="264.135925,26.744034" />
+    <property name="cornerRadius" type="float" value="578.074951" />
+  </shape>
+  <text id="101" startTime="1500" endTime="1917" fillType="color" size="48.000000" font="imported?name=MiSans-Light.ttf" wrapWidth="1004" align="right">
+    <transform>
+      <location value="1884.359863,422.677307,0.000000" />
+      <scale value="0.495097,0.495097" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.200000" />
+      <property name="outTime" type="float" value="0.100000" />
+    </effect>
+    <content>改变焦距</content>
+  </text>
+  <text id="100" startTime="416" endTime="833" fillType="color" size="48.000000" font="imported?name=MiSans-Light.ttf" wrapWidth="1004" align="right">
+    <transform>
+      <location value="1884.359863,422.677307,0.000000" />
+      <scale value="0.495097,0.495097" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.200000" />
+      <property name="outTime" type="float" value="0.100000" />
+    </effect>
+    <content>拍照</content>
+  </text>
+  <text id="102" startTime="2583" endTime="3000" fillType="color" size="48.000000" font="imported?name=MiSans-Light.ttf" wrapWidth="1004" align="right">
+    <transform>
+      <location value="1884.359863,422.677307,0.000000" />
+      <scale value="0.495097,0.495097" />
+    </transform>
+    <effect id="com.alightcreative.effects.fade" locallyApplied="true">
+      <property name="inTime" type="float" value="0.200000" />
+      <property name="outTime" type="float" value="0.100000" />
+    </effect>
+    <content>调节光圈</content>
+  </text>
+</scene>
